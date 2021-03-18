@@ -1,0 +1,30 @@
+# Gboard Dictionary version:1
+scriptsrc	 <script src="" type="text/javascript"></script>	en-US
+a.	<a class="" href=""></a>	en-US
+a:href	<a href="#"></a>	en-US
+a#	<a id="" href=""></a>	en-US
+article	<article></article>	en-US
+divclass	<div class=""></div>	en-US
+div#	<div id=""></div>	en-US
+.footer	<footer class=""></footer>	en-US
+footer#	<footer id=""></footer>	en-US
+footer	<footer></footer>	en-US
+header	<header></header>	en-US
+html5	<html></html>	en-US
+img.	<img class="" src="">	en-US
+img#	<img id="" src="">	en-US
+img	<img src="">	en-US
+li.	<li class=""></ul>	en-US
+li#	<li id=""></li>	en-US
+linkcss	<link rel="stylesheet" href="" type="text/css"/>	en-US
+charset	<meta charset="UTF-8">	en-US
+nav.	<nav class=""></nav>	en-US
+nav#	<nav id=""></nav>	en-US
+p.	<p class=""></p>	en-US
+p#	<p id=""></p>	en-US
+<p>	<p></p>	en-US
+section.	<section class=""></section>	en-US
+section#	<section id=""></section>	en-US
+section	<section></section>	en-US
+ul.	<ul class=""></ul>	en-US
+ul#	<ul id=""></ul>	en-US
